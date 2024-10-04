@@ -1,0 +1,13 @@
+.spam1{
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+}
+
+.div1{
+    text-align: center;
+    background-color:  rgb(244, 117, 6);
+    margin: 200px;
+    height: 200px;
+    padding: 50px;
+}
