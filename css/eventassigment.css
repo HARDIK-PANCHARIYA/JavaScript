@@ -1,0 +1,35 @@
+.div1{
+    border: 2px dotted red;
+    padding: 50px;
+    height: 200px;
+    width: 280px;
+    align-content: center;
+    margin: 50px;
+    padding-bottom: 10px;
+}
+
+.but{
+
+    height:60px;
+    width: 100px;
+    margin-right: 20px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    padding: 20px;
+    font-weight: bolder;
+
+}
+
+#result{
+    background-color: blanchedalmond;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    border: 1px solid red;
+}
+
+#userinput{
+    width: 180px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
