@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fullcalculator</title>
+    <link rel="stylesheet" href="../css/fullcalculator.css">
+    <script src="../calculator/fullcalculator.js"></script>
+</head>
+<body>
+
+    <div class="div1">
+        <h1 style="text-align: center; color: brown; font-weight: bolder; font-style:oblique;">calculator</h1>
+        <center><form name="f1"style="padding-bottom: 20px;" >
+
+            <table cellpadding="10px">
+                <tr>
+                    <td>First Number - </td>
+                    <td><input type="text" name="txt1"></td>
+                </tr>
+
+                <tr>
+                    <td>Second Number - </td>
+                    <td><input type="text" name="txt2"></td>
+                </tr>
+
+                <tr>
+                    <td>Result - </td>
+                    <td><input type="text" name="result"></td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="button" value="Addition" onclick="add()" class="button1">
+                        <input type="button" value="Substraction" onclick="sub()" class="button1"> <br>
+                        <input type="button" value="Multiplication" onclick="mul()" class="button1">
+                        <input type="button" value="division" onclick="divi()" class="button1"><br>
+                        <input type="button" value="clear" onclick="clear1()" class="button1">
+                    </td>
+                </tr>
+
+            </table>
+
+        </form></center>
+    </div>
+    
+</body>
+</html>
