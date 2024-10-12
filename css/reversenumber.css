@@ -1,0 +1,11 @@
+.spam1{
+    font-size: x-large;
+    color: brown;
+}
+
+.div1{
+    margin: 50px;
+    padding: 20px;  
+    text-align: center; 
+    border: 2px solid red;   
+}
