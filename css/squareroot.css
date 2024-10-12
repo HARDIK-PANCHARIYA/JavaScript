@@ -1,0 +1,12 @@
+.div1{
+    padding: 100px;
+    background-color: aqua;
+    height: 500px;
+    width: 300px;
+    color: black;
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+    border: 3px solid green;
+
+}
