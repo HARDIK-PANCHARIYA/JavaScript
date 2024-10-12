@@ -1,0 +1,9 @@
+.p1{
+    background-color: burlywood;
+    color: black;
+    height: 300px;
+    width: 100px;
+    border: 2px dotted purple;
+    padding: 100px;
+    font-size: large;
+}
